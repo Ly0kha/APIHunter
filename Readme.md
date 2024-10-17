@@ -8,6 +8,6 @@ python3 apihunter.py <url>
 ```
 ## requirements :
 ``` bash 
-pip install argparse requests beautifulsoup4 rich tqdm
+pip install argparse aiohttp beautifulsoup4 rich tqdm urllib3 signal logging json robots.txt builtwith ssl socket datetime playwright
 ```
 
